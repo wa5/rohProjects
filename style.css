@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+.carousel-item{
+    width: 100%;
+    height: 90vh;
+}
+.carousel-inner .carousel-caption h5{
+    color: #fff;
+    margin-bottom: 7px;
+    font-size: 42px;
+    width: 80%;
+    margin: 0px auto 30px auto;
+}
+.carousel-caption h2 span{
+    color: green;
+    font-weight: bold;
+    text-shadow: 5px black;
+    letter-spacing: 2px;
+}
+
+.carousel-caption h2 p{
+    
+    font-size: 45px;
+    text-shadow: 5px black;
+    letter-spacing: 2px;
+}
+.carousel-caption{
+    bottom:8.25;
+}
+.container_main{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 2px;
+    text-shadow: 1px black;
+}
+.container_main .col-6 h2{
+    margin-bottom: 7px;
+    font-size: 42px;
+    width: 80%;
+    margin: 0px auto 30px auto;
+    font-weight: bold;
+}
+
+.card image{
+    width: 100%;
+    height: 100%;
+}
